@@ -1,2 +1,2 @@
-# ai-stock-predictor
-Predicts stock prices using Random Forest Classifier and Yahoo Finance API
+# AI Stock Predictor
+Predicts stock prices using Random Forest Classifier and Yahoo Finance API given stock and analyzes the past 10 years of its financial data and technical indicators to generate a prediction for how the stock price moves for ensuing days.
